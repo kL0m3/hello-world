@@ -6,4 +6,6 @@ Add another line.
 
 This is a local repository. 
 
+Make changes to new branch 1 
 Make changes to new branch 2
+
